@@ -51,11 +51,11 @@
 2. **Run the code**:
 
     ```bash
-    python convert_gif_to_atcg.py --input input/sample.gif --output output/converted_atcg.txt
+    python convert_gif_to_atcg.py --input input/sample.gif --output output/converted_atcg.csv
     ```
 
 3. **Expected output**:  
-   The converted ATCG sequence will be saved in `output/converted_atcg.txt`.
+   The converted ATCG sequence will be saved in `output/converted_atcg.csv`.
 
 4. **Expected run time**:  
    On a standard desktop computer, processing a 1MB GIF takes approximately 5-10 seconds.
