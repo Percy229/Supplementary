@@ -1,4 +1,4 @@
-# GIF_1-16
+# Algorithm Description
 
 ## 1. System Requirements
 ### Software dependencies:
