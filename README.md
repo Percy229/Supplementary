@@ -1,4 +1,4 @@
-# Supplementary
+# GIF_1-16
 
 ## 1. System Requirements
 ### Software dependencies:
