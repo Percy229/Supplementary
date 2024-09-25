@@ -1,5 +1,6 @@
 # Algorithm Description
-
+## Overview
+The aim of this study was to encode GIF files into DNA sequences using a voxel-based encoding strategy. Each pixel was assigned one of the four DNA bases based on its color, while preserving the XY coordinates on the image. DNA sequences were then generated from the GIF information in sequential frames. These sequences were subsequently compared against a randomly generated library containing 1,000 sequences, each 120 nucleotides in length. The number of matched sequences is used to evaluate the feasibility and applicability of the method in practical applications
 ## 1. System Requirements
 ### Software dependencies:
 - **Python (version 3.7 or higher)**
