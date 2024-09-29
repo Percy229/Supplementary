@@ -56,7 +56,7 @@ The aim of this study was to encode GIF files into DNA sequences using a voxel-b
     ```
 
 3. **Expected output**:  
-   The converted ATCG sequence will be saved in `output/converted_atcg.csv`.
+   Comparison results of the converted ATCG sequence with sequences in randomly generated DNA pool will be saved in `output/converted_atcg.csv`.
 
 4. **Expected run time**:  
    On a standard desktop computer, processing a 1MB GIF takes approximately 5-10 seconds.
@@ -67,7 +67,7 @@ The aim of this study was to encode GIF files into DNA sequences using a voxel-b
 
 1. Place your GIF file in the `input/` folder or provide the path in the command line.
 
-2. Run the following command to convert your GIF to an ATCG sequence:
+2. Run the following command to convert your GIF to get the comparison results of the converted ATCG sequence with sequences in randomly generated DNA pool:
 
     ```bash
     python convert_gif_to_atcg.py --input <path_to_your_gif> --output <path_to_output_file>
